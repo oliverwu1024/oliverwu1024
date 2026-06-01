@@ -1,7 +1,7 @@
-<!-- cSpell:ignore Platane skillicons komarev demolab tokyonight ghpvc snk nextjs nodejs cpp -->
+<!-- cSpell:ignore Platane skillicons komarev demolab tokyonight ghpvc snk nextjs nodejs fastapi prisma pytorch tensorflow sklearn ElectroMarket Ultiq Leptos Bayesian Monash BullMQ shinyapps -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Oliver+%F0%9F%91%8B;Software+Engineer+%7C+Builder+%7C+Learner;Welcome+to+my+corner+of+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Oliver+Wu+%F0%9F%91%8B;Full-Stack+Developer+%2B+Data+Scientist;MSc+Data+Science+%40+Monash+University;I+ship+products+end-to-end+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -13,7 +13,10 @@
     <img src="https://komarev.com/ghpvc/?username=oliverwu1024&label=Profile+views&color=58A6FF&style=for-the-badge" alt="profile views" />
   </a>
   <img src="https://img.shields.io/github/followers/oliverwu1024?label=Followers&style=for-the-badge&color=blueviolet" alt="followers" />
-  <img src="https://img.shields.io/badge/Focus-Always%20Building-success?style=for-the-badge" alt="focus" />
+  <a href="https://oliverwu1024.dev">
+    <img src="https://img.shields.io/badge/Portfolio-oliverwu1024.dev-000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=for-the-badge" alt="open to collab" />
 </p>
 
 ---
@@ -22,22 +25,27 @@
 
 ```typescript
 const oliver = {
-  role:        "Software Engineer",
-  location:    "🌏 Earth",
-  currently:   ["building cool stuff", "learning system design"],
-  loves:       ["clean code", "good coffee", "open source"],
+  role:        "Full-Stack Developer + Data Scientist",
+  location:    "🇦🇺 Australia",
+  education:   "MSc Data Science @ Monash University (HD 80.9, Thesis 91)",
+  thesis:      "Bayesian Inference + Prior-Fitted Networks for Time Series",
+  currently:   ["Research Assistant @ Monash Temporal Analytics Lab",
+                "Shipping ElectroMarket — P2P electronics marketplace (AU)",
+                "Shipping Ultiq — Android + Rust productivity tracker"],
+  stack:       ["TypeScript", "Python", "Rust (learning)", "Kotlin",
+                "Next.js", "FastAPI", "PostgreSQL", "PyTorch", "AWS"],
+  philosophy:  "Pixel-perfect UI · Scalable backends · Data pipelines",
+  offHours:    ["gym 🏋️", "gaming 🎮", "emerging tech 🔬"],
   contact:     "oliverwu1024@gmail.com",
-  website:     "https://oliverwu1024.dev",
-  funFact:     "I debug with rubber ducks 🦆",
 };
 ```
 
-- 🔭 **Currently working on** — side projects and self-learning experiments
-- 🌱 **Learning** — distributed systems, AI tooling, and better TypeScript
-- 👯 **Open to collaborate on** — interesting OSS projects
-- 💬 **Ask me about** — anything code, debugging, or career paths
+- 🔭 **Currently building** — [ElectroMarket](https://electromarket-app.com) and [Ultiq](https://ultiqapp.com)
+- 🌱 **Currently learning** — Rust, distributed systems, advanced Bayesian ML
+- 🎓 **Research** — Zero-shot time series forecasting at Monash Temporal Analytics Lab
+- 💬 **Ask me about** — full-stack TypeScript, time-series ML, AWS deployments, R/Shiny
 - 📫 **Reach me at** — [`oliverwu1024@gmail.com`](mailto:oliverwu1024@gmail.com)
-- 🌐 **Website** — [oliverwu1024.dev](https://oliverwu1024.dev)
+- 🌐 **Portfolio** — [oliverwu1024.dev](https://oliverwu1024.dev)
 - 💼 **LinkedIn** — [in/oliverwu1024](https://linkedin.com/in/oliverwu1024)
 - ⚡ **Fun fact** — coffee compiles faster than my code ☕
 
@@ -45,16 +53,24 @@ const oliver = {
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,go,rust,java,cpp,html,css,react,nextjs,nodejs,tailwind,docker,kubernetes,aws,gcp,linux,git,github,vscode,postgres,redis,mongodb&perline=12" />
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,rust,kotlin,r,bash&perline=12" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tools-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite&perline=12" />
+</p>
+
+**Backend & Data**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,prisma,redis,pytorch,tensorflow&perline=12" />
+</p>
+
+**Infrastructure & Tooling**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,githubactions,vercel,vscode&perline=12" />
 </p>
 
 ---
@@ -94,13 +110,62 @@ const oliver = {
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/oliverwu1024/oliverwu1024">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oliverwu1024&repo=oliverwu1024&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center"><sub>More projects coming soon — pin your favorite repos on your GitHub profile and add them here.</sub></p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 <a href="https://electromarket-app.com">ElectroMarket</a></h3>
+      <p>P2P marketplace for used electronics across Australia — direct seller payouts via Stripe / Square / PayPal, BullMQ-backed job queues, Redis caching.</p>
+      <p><sub><b>Next.js 16 · Express 5 · PostgreSQL · Prisma · Redis · AWS</b></sub></p>
+      <a href="https://github.com/oliverwu1024/e-commerce_app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=oliverwu1024&repo=e-commerce_app&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⏱️ <a href="https://ultiqapp.com">Ultiq</a></h3>
+      <p>Full-stack Android + Rust productivity tracker with sleep detection, pomodoro, calendar, and a Leptos/WASM analytics dashboard.</p>
+      <p><sub><b>Kotlin · Jetpack Compose · Axum/Rust · Leptos · PostgreSQL · AWS (ECS/RDS/S3)</b></sub></p>
+      <a href="https://github.com/oliverwu1024/ultimate-productivity-app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=oliverwu1024&repo=ultimate-productivity-app&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://oliverwu1024.dev">Personal Portfolio (v2)</a></h3>
+      <p>Dark-themed animated portfolio — SVG plane animation, particle background, terminal-style skills section.</p>
+      <p><sub><b>Next.js 16 · React 19 · TypeScript · Tailwind v4 · Vercel</b></sub></p>
+      <a href="https://github.com/oliverwu1024/oliver_web">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=oliverwu1024&repo=oliver_web&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 <a href="https://github.com/oliverwu1024/my_master_thesis">Master's Thesis</a></h3>
+      <p>Zero-shot time series forecasting combining Full Bayesian Inference with Prior-Fitted Networks. Supervised by Drs. Dempster, Bergmeir, and Prof. Schmidt.</p>
+      <p><sub><b>Python · PyTorch · Bayesian ML · HPC / SLURM</b></sub></p>
+      <a href="https://github.com/oliverwu1024/my_master_thesis">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=oliverwu1024&repo=my_master_thesis&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://oliverwu1024.shinyapps.io/che-yu_wu_31977251_code/">Immigration & Economics Dashboard</a></h3>
+      <p>Interactive R/Shiny exploration of AU ↔ USA migration patterns and trade flows, told as a Martini Glass narrative.</p>
+      <p><sub><b>R · Shiny · ggplot2 · Plotly</b></sub></p>
+      <a href="https://github.com/oliverwu1024/shiny_dashboard">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=oliverwu1024&repo=shiny_dashboard&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🪄 <a href="https://oliverwu1024.github.io">Personal Portfolio (v1)</a></h3>
+      <p>First-iteration responsive React SPA — multi-page navigation, smooth animations, deployed on GitHub Pages.</p>
+      <p><sub><b>React 19 · Vite 7 · CSS3 · GitHub Pages</b></sub></p>
+      <a href="https://github.com/oliverwu1024/oliverwu1024.github.io">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=oliverwu1024&repo=oliverwu1024.github.io&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -108,7 +173,7 @@ const oliver = {
 
 <p align="center">
   <a href="https://oliverwu1024.dev">
-    <img src="https://img.shields.io/badge/Website-oliverwu1024.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-oliverwu1024.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:oliverwu1024@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
