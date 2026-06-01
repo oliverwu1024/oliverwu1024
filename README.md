@@ -1,16 +1,16 @@
 <!-- cSpell:ignore Platane skillicons komarev demolab tokyonight ghpvc snk nextjs nodejs fastapi prisma pytorch tensorflow sklearn ElectroMarket Ultiq Leptos Bayesian Monash BullMQ shinyapps oliverwu collab pomodoro Jetpack Bergmeir SLURM ggplot Plotly Axum -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Oliver+Wu+%F0%9F%91%8B;Full-Stack+Developer+%2B+Data+Scientist;MSc+Data+Science+%40+Monash+University;I+ship+products+end-to-end+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=C792EA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Oliver+Wu+%F0%9F%91%8B;Full-Stack+Developer+%2B+Data+Scientist;MSc+Data+Science+%40+Monash+University;I+ship+products+end-to-end+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=header&reversal=true" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&reversal=true" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/oliverwu1024">
-    <img src="https://komarev.com/ghpvc/?username=oliverwu1024&label=Profile+views&color=58A6FF&style=for-the-badge" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=oliverwu1024&label=Profile+views&color=C792EA&style=for-the-badge" alt="profile views" />
   </a>
   <img src="https://img.shields.io/github/followers/oliverwu1024?label=Followers&style=for-the-badge&color=blueviolet" alt="followers" />
   <a href="https://oliverwu1024.dev">
@@ -78,16 +78,16 @@ const oliver = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=oliverwu1024&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverwu1024&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=oliverwu1024&show_icons=true&theme=material-palenight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverwu1024&layout=compact&theme=material-palenight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oliverwu1024&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oliverwu1024&theme=material-palenight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oliverwu1024&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oliverwu1024&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
@@ -95,7 +95,7 @@ const oliver = {
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oliverwu1024&theme=tokyonight&margin-w=8&margin-h=8&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=oliverwu1024&theme=material-palenight&margin-w=8&margin-h=8&row=2&column=4" />
 </p>
 
 ---
@@ -117,7 +117,7 @@ const oliver = {
       <p>P2P marketplace for used electronics across Australia — direct seller payouts via Stripe / Square / PayPal, BullMQ-backed job queues, Redis caching.</p>
       <p><sub><b>Next.js 16 · Express 5 · PostgreSQL · Prisma · Redis · AWS</b></sub></p>
       <a href="https://github.com/oliverwu1024/e-commerce_app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=oliverwu1024&repo=e-commerce_app&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=oliverwu1024&repo=e-commerce_app&theme=material-palenight&hide_border=true" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -125,7 +125,7 @@ const oliver = {
       <p>Full-stack Android + Rust productivity tracker with sleep detection, pomodoro, calendar, and a Leptos/WASM analytics dashboard.</p>
       <p><sub><b>Kotlin · Jetpack Compose · Axum/Rust · Leptos · PostgreSQL · AWS (ECS/RDS/S3)</b></sub></p>
       <a href="https://github.com/oliverwu1024/ultimate-productivity-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=oliverwu1024&repo=ultimate-productivity-app&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=oliverwu1024&repo=ultimate-productivity-app&theme=material-palenight&hide_border=true" />
       </a>
     </td>
   </tr>
@@ -135,7 +135,7 @@ const oliver = {
       <p>Dark-themed animated portfolio — SVG plane animation, particle background, terminal-style skills section.</p>
       <p><sub><b>Next.js 16 · React 19 · TypeScript · Tailwind v4 · Vercel</b></sub></p>
       <a href="https://github.com/oliverwu1024/oliver_web">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=oliverwu1024&repo=oliver_web&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=oliverwu1024&repo=oliver_web&theme=material-palenight&hide_border=true" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -143,7 +143,7 @@ const oliver = {
       <p>Zero-shot time series forecasting combining Full Bayesian Inference with Prior-Fitted Networks. Supervised by Drs. Dempster, Bergmeir, and Prof. Schmidt.</p>
       <p><sub><b>Python · PyTorch · Bayesian ML · HPC / SLURM</b></sub></p>
       <a href="https://github.com/oliverwu1024/my_master_thesis">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=oliverwu1024&repo=my_master_thesis&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=oliverwu1024&repo=my_master_thesis&theme=material-palenight&hide_border=true" />
       </a>
     </td>
   </tr>
@@ -153,7 +153,7 @@ const oliver = {
       <p>Interactive R/Shiny exploration of AU ↔ USA migration patterns and trade flows, told as a Martini Glass narrative.</p>
       <p><sub><b>R · Shiny · ggplot2 · Plotly</b></sub></p>
       <a href="https://github.com/oliverwu1024/shiny_dashboard">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=oliverwu1024&repo=shiny_dashboard&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=oliverwu1024&repo=shiny_dashboard&theme=material-palenight&hide_border=true" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -161,7 +161,7 @@ const oliver = {
       <p>First-iteration responsive React SPA — multi-page navigation, smooth animations, deployed on GitHub Pages.</p>
       <p><sub><b>React 19 · Vite 7 · CSS3 · GitHub Pages</b></sub></p>
       <a href="https://github.com/oliverwu1024/oliverwu1024.github.io">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=oliverwu1024&repo=oliverwu1024.github.io&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=oliverwu1024&repo=oliverwu1024.github.io&theme=material-palenight&hide_border=true" />
       </a>
     </td>
   </tr>
@@ -189,9 +189,9 @@ const oliver = {
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=material-palenight" alt="quote" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </p>
