@@ -55,17 +55,17 @@ const oliver = {
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,rust,kotlin,r,bash&perline=12" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cs,rust,kotlin,r,bash&perline=12" />
 </p>
 
 **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite&perline=12" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,tailwind,html,css,vite&perline=12" />
 </p>
 
 **Backend & Data**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,prisma,redis,pytorch,tensorflow&perline=12" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,fastapi,postgres,prisma,redis,pytorch,tensorflow&perline=12" />
 </p>
 
 **Infrastructure & Tooling**
