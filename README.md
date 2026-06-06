@@ -1,7 +1,7 @@
 <!-- cSpell:ignore Platane skillicons komarev demolab tokyonight ghpvc snk nextjs nodejs fastapi prisma pytorch tensorflow sklearn ElectroMarket Ultiq Leptos Bayesian Monash BullMQ shinyapps oliverwu collab pomodoro Jetpack Bergmeir SLURM ggplot Plotly Axum -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=C792EA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Oliver+Wu+%F0%9F%91%8B;Full-Stack+Developer+%2B+Data+Scientist;MSc+Data+Science+%40+Monash+University;I+ship+products+end-to-end+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=C792EA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Oliver+Wu+%F0%9F%91%8B;Full-Stack+Developer+%2B+Data+Scientist;I+ship+products+end-to-end+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
