@@ -83,7 +83,7 @@ const oliver = {
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=oliverwu1024&show_icons=true&theme=material-palenight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverwu1024&layout=compact&theme=material-palenight&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverwu1024&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
