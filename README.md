@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/oliverwu1024" alt="Oliver Wu's GitHub contributions graph" width="100%" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Oliver Wu's 3D contributions graph" width="100%" />
 </p>
 
 ---
