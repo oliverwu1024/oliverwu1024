@@ -19,6 +19,10 @@
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=for-the-badge" alt="open to collab" />
 </p>
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/oliverwu1024" alt="Oliver Wu's GitHub contributions graph" width="100%" />
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
